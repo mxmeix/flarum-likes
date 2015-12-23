@@ -1,5 +1,5 @@
 {
-    "name": "fan/vote",
+    "name": "flarum/likes",
     "description": "Discussion voting",
     "type": "flarum-extension",
     "keywords": ["discussion"],
@@ -24,7 +24,7 @@
     },
     "extra": {
         "flarum-extension": {
-            "title": "Fan Votes",
+            "title": " Votes",
             "icon": {
                 "name": "thumbs-o-up",
                 "backgroundColor": "#Ffffff",
